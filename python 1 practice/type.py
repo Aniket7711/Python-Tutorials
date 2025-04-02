@@ -10,7 +10,7 @@ print(b)
 
 
 a = "31.3"
-b = float(a)
+b = float(a) # convert string to float
 t = type(b)
 print (t)
 
