@@ -1,4 +1,4 @@
-# type casting 
+# type casting use to know the type of variable
 a = "aniket"
 t = type(a) # class int
 print(t)
@@ -13,6 +13,8 @@ a = "31.3"
 b = float(a) # convert string to float
 t = type(b)
 print (t)
+
+
 
 
 
