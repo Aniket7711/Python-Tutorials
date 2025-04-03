@@ -6,3 +6,5 @@ print(a)
 b = "aniket is a\r good boy \n but not a bad  \"boy\""
 # \" is used to print double quotes in the string
 print(b)
+# \b is used to create a backspace in the string
+# \\ is used to print a single backslash in the string
