@@ -14,4 +14,4 @@ fruit.append(f4)
 f5 = input("Enter fruit 5: ")
 fruit.append(f5)
 
-print(f"The fruits are:{fruit}")
+print(f"The fruits are:{fruit}") 
