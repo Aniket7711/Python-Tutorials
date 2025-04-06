@@ -17,3 +17,5 @@ lang = input("enter language:")
 d.update({name: lang})
 
 print( "the language are: ",d)
+
+# in dict value can be same but key should be unique
