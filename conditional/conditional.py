@@ -10,3 +10,4 @@ if(a>18):
 else:
     print("you are below the age of consent")
     
+    
